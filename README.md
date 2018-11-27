@@ -1,2 +1,3 @@
 # DAND-P1
-PROJECT 1 (Bike Share Analysis)
+Data Analyst Nanodegree – Misk Udacity Connect Program
+P1 (Bike Share Analysis)
