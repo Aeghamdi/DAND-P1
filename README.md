@@ -1,3 +1,3 @@
-# DAND-P1
+# DAND-P2
 Data Analyst Nanodegree – Misk Udacity Connect Program
-P1 (Bike Share Analysis)
+P2 (Bike Share Analysis)
